@@ -1,0 +1,15 @@
+﻿{
+  "name": "COIN QUEST - บันทึกรายรับรายจ่าย",
+  "short_name": "CoinQuest",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#5c94fc",
+  "theme_color": "#c84c0c",
+  "lang": "th",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
